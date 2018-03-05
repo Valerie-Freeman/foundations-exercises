@@ -1,0 +1,23 @@
+{
+  "name": "foundations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "args.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valerie-Freeman/foundations-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valerie-Freeman/foundations-exercises/issues"
+  },
+  "homepage": "https://github.com/Valerie-Freeman/foundations-exercises#readme",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
