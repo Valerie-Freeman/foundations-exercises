@@ -1,2 +1,2 @@
-# NSS Node Foundations Exercie: Modularity Diceroll
+# NSS Node Foundations Exercise: Modularity Diceroll
 #### Completed in colaboration with [Trey Mosley](https://github.com/iiimosley)
